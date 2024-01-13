@@ -1,5 +1,5 @@
 # 3 Band Audio Equalizer
-The 3-band Audio equalizer is designed with **Active filters** built using **Op-Amps** and potentiometers.
+The 3-band Audio equalizer is designed with **Active filters** built using **Op-Amps** and potentiometers. The user can easily adjust the bass, treble, and mids using the potentiometer and get the required mix. The entire circuitry is designed and simulated in Proteus software.
 ## Circuit
 ![image](https://github.com/Kalaimani02/3_Band_Audio_Equalizer/assets/89019323/b0f1fdb2-7a99-422c-9d09-cc77ac379682)
 ## Working
